@@ -49,5 +49,5 @@ You can extend or modify this file for retraining or improving accuracy.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/ObscuraKrypta/Metal-Color-Detection.git
-   cd Metal-Color-Detection
+   git clone https://github.com/ETCE-LAB/PiVisionSort.git
+   cd PiVisionSort
